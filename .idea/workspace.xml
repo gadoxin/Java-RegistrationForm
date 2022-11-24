@@ -1,22 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20a59faf-f720-4937-bd49-f97852bdccd0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-RegistrationForm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql-connector-j-8.0.31.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RegistrationForm.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RegistrationForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/key.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/new.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stock.png" afterDir="false" />
+    <list default="true" id="20a59faf-f720-4937-bd49-f97852bdccd0" name="Changes" comment="RegistrationForm with Java swing Gui">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +72,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667564689264</updated>
     </task>
+    <task id="LOCAL-00001" summary="RegistrationForm with Java swing Gui">
+      <created>1669297351093</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669297351093</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,5 +95,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="RegistrationForm with Java swing Gui" />
+    <option name="LAST_COMMIT_MESSAGE" value="RegistrationForm with Java swing Gui" />
   </component>
 </project>
