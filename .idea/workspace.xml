@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20a59faf-f720-4937-bd49-f97852bdccd0" name="Changes" comment="RegistrationForm with Java swing Guii" />
+    <list default="true" id="20a59faf-f720-4937-bd49-f97852bdccd0" name="Changes" comment="New RegistrationForm with Java swing Gui" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669319695154</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="New RegistrationForm with Java swing Gui">
+      <created>1669320006181</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669320006181</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +176,7 @@
     <MESSAGE value="cool 1 RegistrationForm with Java swing Gui" />
     <MESSAGE value="RegistrationForm with Java swing Gui" />
     <MESSAGE value="RegistrationForm with Java swing Guii" />
-    <option name="LAST_COMMIT_MESSAGE" value="RegistrationForm with Java swing Guii" />
+    <MESSAGE value="New RegistrationForm with Java swing Gui" />
+    <option name="LAST_COMMIT_MESSAGE" value="New RegistrationForm with Java swing Gui" />
   </component>
 </project>
