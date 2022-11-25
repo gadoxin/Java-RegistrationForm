@@ -1,3 +1,3 @@
 # Java-RegistrationForm
-registration form developed with Java Swing GUI
-The Registration form uses Sql for database connectivity 
+registration form developed with Java Swing GUI,
+This Registration form uses Sql for database connectivity 
